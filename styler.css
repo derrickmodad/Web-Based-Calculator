@@ -1,0 +1,126 @@
+#bacG{
+    background-color: rgb(255, 165, 0);
+    z-index: -1;
+    padding: 20px;
+    position: absolute;
+    left: 125px;
+    top: -5px;
+    width: 200px;
+    height: 290px;
+    border: 1px solid black;
+}
+#disp{
+    background-color: rgb(58, 146, 254);
+    border: 1px solid rgb(64, 63, 63);
+    text-align: right;
+    width: 231.8px;
+    height: 60px;
+    position: absolute;
+    left: 129.5px;
+    top: -10px;
+    width: 231.7px;
+    height: 50px;
+    color: white;
+    font-family: monospace;
+    font-size: 25px;
+}
+.mainBtn{
+    background-color: rgb(27, 93, 215);
+    padding: 20px;
+    position: absolute;
+    width: 51.5px;
+    height: 60px;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    border: 2px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mainBtn:hover{
+    background-color: rgb(84, 169, 239);
+    border-color: rgb(255, 255, 255);
+}
+#one{
+    left: 129px;
+    top: 75px;
+}
+#two{
+    left: 189px;
+    top: 75px;
+}
+#thre{
+    left: 249px;
+    top: 75px;
+}
+#four{
+    left: 129px;
+    top: 140px;
+}
+#five{
+    left: 189px;
+    top: 140px;
+}
+#six{
+    left: 249px;
+    top: 140px;
+}
+#seve{
+    left: 129px;
+    top: 205px;
+}
+#eigh{
+    left: 189px;
+    top: 205px;
+}
+#nine{
+    left: 249px;
+    top: 205px;
+}
+#zero{
+    left: 189px;
+    top: 270px;
+}
+#dubzero{
+    left: 129px;
+    top: 270px;
+    padding: 0px;
+}
+#deci{
+    left: 249px;
+    top: 270px;
+    font-size: 28px;
+}
+#equa{
+    left: 309px;
+    top: 270px;
+    padding: 0px;
+}
+#plus{
+    left: 309px;
+    top: 130px;
+    padding: 0px;
+    height: 30px;
+}
+#minu{
+    left: 309px;
+    top: 165px;
+    padding: 0px;
+    height: 30px;
+}
+#mult{
+    left: 309px;
+    top: 200px;
+    padding: 0px;
+    height: 30px;
+}
+#divi{
+    left: 309px;
+    top: 235px;
+    padding: 0px;
+    height: 30px;
+}
+#clea{
+    left: 309px;
+    top: 75px;
+    padding: 0px;
+    height: 50px;
+}
